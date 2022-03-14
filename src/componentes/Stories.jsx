@@ -1,4 +1,4 @@
-export default function Stories(){
+export default function Stories() {
     const storiesUsuarios = [
         {
             img: "assets/img/9gag.svg",
@@ -44,7 +44,7 @@ export default function Stories(){
 
     );
 }
-function Story(props){
+function Story(props) {
     return (
         <div class="story">
             <div class="imagem">
